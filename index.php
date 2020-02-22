@@ -11,7 +11,7 @@
     <title>Projeto utilizando Git</title>
   </head>
   <body>
-    <h1>Projeto Utilizando Git</h1>
+    <h1>Projeto Utilizado Git</h1>
 
     <?php 
 
