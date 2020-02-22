@@ -8,10 +8,10 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <title>Projeto utilizando GitHub</title>
+    <title>Projeto utilizando GitHub/PHPSTORM</title>
   </head>
   <body>
-    <h1>Projeto Utilizando GitHub</h1>
+    <h1>Projeto Utilizando GitHub/PHPSTORM</h1>
     <?php
         for ($x=0; $x < 10; $x++) { 
             echo "Alô Mundo!!<br />";
