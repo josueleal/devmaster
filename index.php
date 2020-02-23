@@ -24,9 +24,16 @@
                 ?>
 
             </div>
-
         </div>
 
+        <div class="row">
+
+            <div class="col-md-12">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi commodi, impedit libero magnam, magni minima molestias nesciunt, omnis perferendis quae saepe ullam voluptatum. At, dolores exercitationem fugit illum itaque labore!</p>
+
+            </div>
+
+        </div>
     </div>
 
 
