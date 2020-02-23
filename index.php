@@ -12,11 +12,23 @@
   </head>
   <body>
     <h1>Projeto Utilizando GitHub/PHPSTORM</h1>
-    <?php
-        for ($x=0; $x < 10; $x++) { 
-            echo "Alô Mundo!!<br />";
-        }
-    ?>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+
+                <?php
+                    for ($x=0; $x < 10; $x++) {
+                        echo "Alô Mundo!!<br />";
+                    }
+                ?>
+
+            </div>
+
+        </div>
+
+    </div>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
