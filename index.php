@@ -35,14 +35,14 @@
 
         </div>
 
-        <div class="row">
+<!--         <div class="row">
 
             <div class="col-md-12">
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad asperiores beatae, blanditiis corporis dolorem doloribus et explicabo impedit labore maxime nam nisi odit quae quasi, quibusdam sit tenetur ut vitae.</p>
             </div>
 
-        </div>
+        </div> -->
     </div>
 
 
