@@ -11,29 +11,34 @@
     <title>Projeto utilizando GitHub/PHPSTORM</title>
   </head>
   <body>
-    <div class="row">
-
-        <div class="col-md-12">
-            <h1>Projeto Utilizando GitHub/PHPSTORM</h1>
-
-        </div>
-
-    </div>
-
-
 
     <div class="container">
-        <div class="row">
-            <div class="col-md-12">
 
-                <?php
-                    for ($x=0; $x < 10; $x++) {
-                        echo "Alô Mundo!!<br />";
-                    }
-                ?>
+        <div class="row">
+
+            <div class="col-md-12">
+                <h1>Projeto Utilizando GitHub/PHPSTORM</h1>
 
             </div>
+
         </div>
+
+        <br>
+
+        <div class="row">
+            <?php for ($x=0; $x < 10; $x++) { ?>
+                <div class="col-md-3">
+                    <div class="card" style="width: 18rem;">
+                        <div class="card-body">
+                            <h5 class="card-title">Alô Mundo!!</h5>
+                        </div>
+                    </div>
+
+                </div>
+            <?php } ?>
+        </div>
+
+        <br>
 
         <div class="row">
 
