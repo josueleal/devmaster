@@ -30,19 +30,22 @@
 
             <div class="col-md-12">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi commodi, impedit libero magnam, magni minima molestias nesciunt, omnis perferendis quae saepe ullam voluptatum. At, dolores exercitationem fugit illum itaque labore!</p>
-
             </div>
 
         </div>
 
-<!--         <div class="row">
-
+        <div class="row">
             <div class="col-md-12">
-
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad asperiores beatae, blanditiis corporis dolorem doloribus et explicabo impedit labore maxime nam nisi odit quae quasi, quibusdam sit tenetur ut vitae.</p>
             </div>
 
-        </div> -->
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam aut corporis cumque dolor eaque eligendi fuga iure iusto, magni minus, molestiae neque nobis non odit quia, tenetur ullam voluptatibus?</p>
+            </div>
+        </div>
     </div>
 
 
