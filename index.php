@@ -11,7 +11,16 @@
     <title>Projeto utilizando GitHub/PHPSTORM</title>
   </head>
   <body>
-    <h1>Projeto Utilizando GitHub/PHPSTORM</h1>
+    <div class="row">
+
+        <div class="col-md-12">
+            <h1>Projeto Utilizando GitHub/PHPSTORM</h1>
+
+        </div>
+
+    </div>
+
+
 
     <div class="container">
         <div class="row">
